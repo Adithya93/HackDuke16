@@ -1,4 +1,3 @@
-// This #include statement was automatically added by the Particle IDE.
 #include "InternetButton/InternetButton.h"
 
 
